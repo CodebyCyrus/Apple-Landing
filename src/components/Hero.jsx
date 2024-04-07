@@ -1,5 +1,5 @@
-const Navbar = () => {
-  return <div>Navbar</div>;
+const Hero = () => {
+  return <div>Hero</div>;
 };
 
-export default Navbar;
+export default Hero;
