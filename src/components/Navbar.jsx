@@ -2,7 +2,7 @@ import { appleImg, bagImg, searchImg } from "../utils";
 
 const Navbar = () => {
   return (
-    <header>
+    <header className="w-full">
       <nav>
         <img src={appleImg} alt="Apple Img" width={14} height={18} />
 
