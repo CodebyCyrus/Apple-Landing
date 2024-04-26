@@ -13,6 +13,7 @@
     "@gsap/react": "^2.1.0",
     "@react-three/drei": "^9.105.4",
     "@react-three/fiber": "^8.16.2",
+    "@sentry/react": "^7.112.2",
     "gsap": "^3.12.5",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
