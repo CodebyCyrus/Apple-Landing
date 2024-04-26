@@ -1,3 +1,28 @@
+## Build and Deploy an Apple Website
+
+- Front-end Development
+- 3D Development
+
+React.js
+Three.js
+React Three Fiber
+React Three Drei
+GSAP (Greensock)
+Vite
+Tailwind CSS
+Web GL
+Sentry.io Issue Tracker
+Framer Motion
+Custom Video Slider
+Responsive
+Optimal Performance in SEO and Speed
+
+---
+
+commands:
+npm install
+npm run dev
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
